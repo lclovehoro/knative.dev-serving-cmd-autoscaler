@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:73d4d0503544ea930caa4fba07b701147339131de31a6aae8c52d6bb568f3c81
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:d1e385623fe668b0432a6bd1fbdfe5242ec5f637e94b253b73a98e4297278d54
 MAINTAINER horoscope.liu@gmail.com
